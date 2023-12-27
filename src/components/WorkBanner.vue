@@ -1,5 +1,6 @@
 <template>
-  <a href="/satch">
+  <!-- <a href="/satch"> -->
+  <router-link to="/satch">
     <div class="project-banner">
       <!-- width 100 contain everything, 
       set bg to flat grey similar to background
@@ -34,7 +35,8 @@
         />
       </div>
     </div>
-  </a>
+  </router-link>
+  <!-- </a> -->
 </template>
 
 <script lang="ts">
