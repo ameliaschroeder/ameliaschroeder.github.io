@@ -8,6 +8,9 @@
               <router-link class="nav-li" to="/about">ABOUT ME</router-link>
             </li>
             <li><router-link class="nav-li" to="/"> MY WORK</router-link></li>
+            <li>
+              <router-link class="nav-li" to="/satch"> SATCH</router-link>
+            </li>
           </ul>
         </div>
         <div class="headimg-container">
